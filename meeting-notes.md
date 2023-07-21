@@ -22,5 +22,11 @@ Sources:
 Some surveys (not sure if they're good) from Kayla:
 - <a href=https://doi-org.ezproxy2.library.arizona.edu/10.1145/3603620> Machine Unlearning: A Survey </a>
 - <a href=https://doi.org/10.1007/s42979-023-01767-4> A Review of Machine Unlearning </a>
-- <a href=https://arxiv.org/abs/2305.06360> Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy </a>
+- <a href=https://arxiv.org/abs/2305.06360> Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy </a>\
+  - There might be something here but I think this is a junk paper. 
 - <a href=https://arxiv.org/abs/2305.07512> Learn to Unlearn: A Survey on Machine Unlearning </a>
+
+Notable Studies: 
+ - Guo et al certified unlearning
+ - other guy's certified unlearning
+ - 
