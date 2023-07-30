@@ -24,3 +24,9 @@ Some surveys (not sure if they're good) from Kayla:
 - <a href=https://doi.org/10.1007/s42979-023-01767-4> A Review of Machine Unlearning </a>
 - <a href=https://arxiv.org/abs/2305.06360> Exploring the Landscape of Machine Unlearning: A Comprehensive Survey and Taxonomy </a>
 - <a href=https://arxiv.org/abs/2305.07512> Learn to Unlearn: A Survey on Machine Unlearning </a>
+
+
+## 7/30/2023
+<a href="https://discord.com/channels/@me/1117663106856931400/1134378575739494410">Machine Unlearning: The Right to be Forgotten</a>
+<a href="https://www.youtube.com/watch?v=VHDFcPRpDbE">Video presentation of "Descent to delete : the gradient based methods"</a>
+<a href="https://arxiv.org/abs/2007.02923">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a>
