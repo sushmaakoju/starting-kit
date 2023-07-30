@@ -27,6 +27,6 @@ Some surveys (not sure if they're good) from Kayla:
 
 
 ## 7/30/2023
-<a href="https://discord.com/channels/@me/1117663106856931400/1134378575739494410">Machine Unlearning: The Right to be Forgotten</a>
-<a href="https://www.youtube.com/watch?v=VHDFcPRpDbE">Video presentation of "Descent to delete : the gradient based methods"</a>
-<a href="https://arxiv.org/abs/2007.02923">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a>
+- <a href="https://discord.com/channels/@me/1117663106856931400/1134378575739494410">Machine Unlearning: The Right to be Forgotten</a> 
+- <a href="https://www.youtube.com/watch?v=VHDFcPRpDbE">Video presentation of "Descent to delete : the gradient based methods"</a>
+- <a href="https://arxiv.org/abs/2007.02923">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a>
