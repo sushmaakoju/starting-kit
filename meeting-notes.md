@@ -26,7 +26,20 @@ Some surveys (not sure if they're good) from Kayla:
   - There might be something here but I think this is a junk paper. 
 - <a href=https://arxiv.org/abs/2305.07512> Learn to Unlearn: A Survey on Machine Unlearning </a>
 
-Notable Studies: 
- - Guo et al certified unlearning
- - other guy's certified unlearning
- - 
+
+## 7/30/2023
+- <a href="https://discord.com/channels/@me/1117663106856931400/1134378575739494410">Machine Unlearning: The Right to be Forgotten</a> 
+- <a href="https://www.youtube.com/watch?v=VHDFcPRpDbE">Video presentation of "Descent to delete : the gradient based methods"</a>
+- <a href="https://arxiv.org/abs/2007.02923">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a>
+
+
+## 7/30/2023
+- <a href="https://discord.com/channels/@me/1117663106856931400/1134378575739494410">Machine Unlearning: The Right to be Forgotten</a> 
+- <a href="https://www.youtube.com/watch?v=VHDFcPRpDbE">Video presentation of "Descent to delete : the gradient based methods"</a>
+- <a href="https://arxiv.org/abs/2007.02923">Descent-to-Delete: Gradient-Based Methods for Machine Unlearning</a>
+
+## 8/8/2023
+- <a href=https://arxiv.org/abs/1703.04730> Understanding Black-box Predictions via Influence Functions </a>
+    - Lots of citations
+    - Guo's Certified Unlearning and some other methods are based on this
+    - Concept: How can we quantify the influence of a training sample on the trained model?
