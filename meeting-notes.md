@@ -1,3 +1,5 @@
+# We have formally decided to not participate as a group as of August 13th 2023.
+
 # meeting-notes
 participants: Sushma, Michelle and Kayla:
 
